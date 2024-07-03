@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.8
+Created-By: 18.0.1.1+2-6 (Oracle Corporation)
+Class-Path: lib/connector.habtish/ lib/javamysqlconnect/ lib/mysql-con
+ nector-java-8.0.29.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: BloodBank.BLOOD_BANK_CLASS
+
